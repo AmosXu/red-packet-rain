@@ -6,6 +6,8 @@
 
 phaser游戏开发脚手架，支持ES6语法，支持class类继承
 
+**介绍:<a href='http://www.cnblogs.com/mianbaodaxia/p/7095782.html'>详细介绍地址</a>**
+
 **develope(开发):**
 ```
 1. npm install
