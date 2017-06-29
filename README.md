@@ -7,17 +7,17 @@
 phaser游戏开发脚手架，支持ES6语法，支持class类继承
 
 **develope(开发):**
-
+```
 1. npm install
 2. npm run dev
 3. open localhost:8081 in chrome
-
+```
 ## 效果展示
 
-![GPLv3](https://github.com/AmosXu/red-packet-rain/assets/img/readme-timeout.png) 
-![GPLv3](https://github.com/AmosXu/red-packet-rain/assets/img/readme-rain.png) 
-![GPLv3](https://github.com/AmosXu/red-packet-rain/assets/img/readme-open.png) 
-![GPLv3](https://github.com/AmosXu/red-packet-rain/assets/img/readme-red-packet.png) 
+![GPLv3](https://github.com/AmosXu/red-packet-rain/tree/master/assets/img/readme-timeout.png) 
+![GPLv3](https://github.com/AmosXu/red-packet-rain/tree/master/assets/img/readme-rain.png) 
+![GPLv3](https://github.com/AmosXu/red-packet-rain/tree/master/assets/img/readme-open.png) 
+![GPLv3](https://github.com/AmosXu/red-packet-rain/tree/master/assets/imgreadme-red-packet.png) 
 
 
 
