@@ -12,15 +12,12 @@ phaser游戏开发脚手架，支持ES6语法，支持class类继承
 ```
 1. npm install
 2. npm run dev
-3. open localhost:8081 in chrome
 ```
+### 编译完成后会打开浏览器，把浏览器切换到手机模式就能正常展示了
+
 ## 效果展示
 
-![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-timeout.png) 
-![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-rain.png) 
-![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-open.png) 
-![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-red-packet.png) 
-
-
-
-
+![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-timeout.png)
+![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-rain.png)
+![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-open.png)
+![GPLv3](https://raw.githubusercontent.com/AmosXu/red-packet-rain/master/assets/img/readme-red-packet.png)

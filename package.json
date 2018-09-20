@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --progress --colors",
-    "build": "cross-env NODE_ENV=production webpack --config webpack.production.config.js --progress --colors"
+    "dev": "webpack-dev-server"
   },
   "dependencies": {},
   "devDependencies": {
